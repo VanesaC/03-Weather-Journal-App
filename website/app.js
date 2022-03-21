@@ -39,8 +39,8 @@ const postData = async (url, data) => {
   }
 };
 postData('/add', {
-  city: 'Brrrrrr',
-  date: 'Hrrrrr',
-  temp: 'Drrrrrrrrr',
-  content: 'Hrrrrrrrrrr',
+  city: 'Bucharest',
+  date: '03.03.2022',
+  temp: '20degrees Celsius',
+  content: 'feeling happy',
 });
